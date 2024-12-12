@@ -1,4 +1,4 @@
-const API_KEY = "196da4761ef24109a7dc9584606a9ec2";
+const API_KEY = "4843591cbd1b4f23b82df24a507fb84c";
 const BASE_URL = "https://newsapi.org/v2/everything";
 
 const searchInput = document.getElementById("search-text");
